@@ -1,0 +1,8 @@
+{
+  "name": "0x007",
+  "logo": "https://r.resimlink.com/o5gM7n.png",
+  "rpc_url": "http://161.97.175.79:9944",
+  "explorer_url": "http://161.97.175.79:4000",
+  "metrics_endpoint": "http://161.97.175.79:9615",
+  "id": "5cad460d-9f59-4e8b-a554-5c99f507d262"
+}
